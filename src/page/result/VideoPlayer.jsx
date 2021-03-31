@@ -33,10 +33,7 @@ Lines
 Supported 
 
 00:00:43.100 --> 00:00:48.000
-Captions settings panel allows to define captions colors, background, font, shadow etc. 
-
-00:00:48.100 --> 00:00:54.000
-Copyright 2008-2019 Nuevolab.com`;
+Captions settings panel allows to define captions colors, background, font, shadow etc.`;
 
 const generateSubtitle = (nodeTitle, currentTime, onClick) =>
     nodeTitle
